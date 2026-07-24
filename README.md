@@ -2,10 +2,10 @@
 
 ### Learning repos
 
-* **[first_projects](https://github.com/n25tech/first_projects)**
+* **[first-projects](https://github.com/n25tech/first-projects)**
   I tend to try a lot of new things and I create new repos for them, then forget about them and recreate something similar later. So, I hope to keep most of my first time experiments in this repo.
 
-* **[dsa_learning](https://github.com/n25tech/dsa_learning)**
+* **[dsa-learning](https://github.com/n25tech/dsa-learning)**
   My dsa learning outside of problem solving in leet code sites.
 
 ### Trading/Investing/Portfolio Management
@@ -26,5 +26,5 @@
 * **[DotFiles](https://github.com/n25tech/DotFiles)**
   My configurations for shells, IDEs, etc.
 
-* **[my_infrastructure](https://github.com/n25tech/my_infrastructure)**
+* **[my-infrastructure](https://github.com/n25tech/my-infrastructure)**
   My configurations for my homelab and other infrastructure managed by me.
