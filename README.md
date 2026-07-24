@@ -5,17 +5,26 @@
 * **[first_projects](https://github.com/n25tech/first_projects)**
   I tend to try a lot of new things and I create new repos for them, then forget about them and recreate something similar later. So, I hope to keep most of my first time experiments in this repo.
 
-* **[dsa_learning](https://github.com/n25tech/dsa_learning)** - private
+* **[dsa_learning](https://github.com/n25tech/dsa_learning)**
   My dsa learning outside of problem solving in leet code sites.
 
 ### Trading/Investing/Portfolio Management
 
-* Moolah/Moolah UI - These repos are private and contains my own pipeline and strategies. built with python, ta-lib and d3js.
+* **[moolah](https://github.com/n25tech/moolah)**
+  This repo contains my own pipeline and strategies for trading/investing built with python and ta-lib.
+
+* **[moolah-ui](https://github.com/n25tech/moolah-ui)**
+  This repo contains the frontend for moolah built with svelte and d3-js and allows me to visualize my trading strategies from my moolah repo.
 
 ### Productivity
 
 * **[minuet](https://github.com/n25tech/minuet)**
   productivity app for to do list, pomodoros and white noise. It's a single page app built in vanilla js. I built in vanilla js to brush-up on my frontend skills without the assistance of a framework.
 
-* **[Repository-Name-3](https://github.com/username/Repository-Name-3)**
-  A short description highlighting the problem this tool solves.
+### Infrastructure, Homelab and Configurations
+
+* **[DotFiles](https://github.com/n25tech/DotFiles)**
+  My configurations for shells, IDEs, etc.
+
+* **[my_infrastructure](https://github.com/n25tech/my_infrastructure)**
+  My configurations for my homelab and other infrastructure managed by me.
