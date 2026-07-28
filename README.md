@@ -5,6 +5,9 @@
 * **[first-projects](https://github.com/n25tech/first-projects)**
   I tend to try a lot of new things and I create new repos for them, then forget about them and recreate something similar later. So, I hope to keep most of my first time experiments in this repo.
 
+* **[security-learning](https://github.com/n25tech/security-learning)**
+  security learning from ctfs, courses, etc.
+
 * **[dsa-learning](https://github.com/n25tech/dsa-learning)**
   My dsa learning outside of problem solving in leet code sites.
 
