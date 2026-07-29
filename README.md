@@ -22,7 +22,7 @@
 ### Productivity
 
 * **[minuet](https://github.com/n25tech/minuet)**
-  productivity app for to do list, pomodoros and white noise. It's a single page app built in vanilla js. I built in vanilla js to brush-up on my frontend skills without the assistance of a framework.
+  productivity app for to do list, pomodoros and white noise. It's a single page app built in vanilla js. I built in vanilla js to brush-up on my frontend skills without the assistance of a framework. You can view it [here](minuet.n25tech.com).
 
 ### Infrastructure, Homelab and Configurations
 
